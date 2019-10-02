@@ -15,3 +15,9 @@
   cols: 2
   description: large random data
   type: table
+- path: x
+  name: x
+  rows: 10000000
+  cols: 2
+  description: duplicate of large random data
+  type: table
