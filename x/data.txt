@@ -1,0 +1,10 @@
+path:
+- https://github.com/iainmwallace/test_pins/releases/download/x-57b6d98/data.csv
+- https://github.com/iainmwallace/test_pins/releases/download/x-57b6d98/data.rds
+rows: 10000000
+cols: 2
+columns:
+  compounds: character
+  random_data: numeric
+description: duplicate of large random data
+type: table
