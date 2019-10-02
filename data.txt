@@ -9,3 +9,9 @@
   cols: 2
   description: small random data
   type: table
+- path: my-data-10m
+  name: my-data-10m
+  rows: 10000000
+  cols: 2
+  description: large random data
+  type: table
