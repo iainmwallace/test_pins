@@ -1,0 +1,10 @@
+path:
+- data.csv
+- data.rds
+rows: 100
+cols: 2
+columns:
+  compounds: character
+  random_data: numeric
+description: small random data
+type: table
