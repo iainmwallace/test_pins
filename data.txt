@@ -3,3 +3,9 @@
   rows: 32
   cols: 11
   type: table
+- path: my-data
+  name: my-data
+  rows: 100
+  cols: 2
+  description: small random data
+  type: table
